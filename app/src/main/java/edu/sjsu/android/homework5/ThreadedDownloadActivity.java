@@ -158,7 +158,7 @@ public class ThreadedDownloadActivity extends AppCompatActivity {
     }
 
     public void setURL2(View view){
-        textBox.setText("http://pngimg.com/uploads/apple/apple_PNG12405.png");
+        textBox.setText("https://pngimg.com/uploads/apple/apple_PNG12405.png");
     }
 
     // AsyncTask for AsyncButton
