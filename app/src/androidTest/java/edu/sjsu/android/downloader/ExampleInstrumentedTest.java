@@ -1,4 +1,4 @@
-package edu.sjsu.android.homework5;
+package edu.sjsu.android.downloader;
 
 import android.content.Context;
 
