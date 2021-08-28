@@ -9,3 +9,10 @@ Instructions to run:
 
 <img src="test.png" alt="drawing" width="400"/>
 <img src="test2.png" alt="drawing" width="400"/>
+
+<div class="image123">
+    <img src="test.png" height="200" width="200" style="float:left">
+    <p>Download Success</p>
+    <img class="middle-img" src="test2.png"/ height="200" width="200">
+    <p>Bad URL Download failed</p>
+</div>
