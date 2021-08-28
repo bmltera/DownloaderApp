@@ -8,3 +8,4 @@ Instructions to run:
 3. Build app
 
 ![Preview](test.png)
+<img src="test2.png" alt="drawing" width="200"/>
