@@ -7,5 +7,5 @@ Instructions to run:
 2. Configure device to API 19
 3. Build app
 
-![Preview](test.png)
-<img src="test2.png" alt="drawing" width="200"/>
+<img src="test.png" alt="drawing" width="400"/>
+<img src="test2.png" alt="drawing" width="400"/>
